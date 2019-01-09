@@ -1,1 +1,1 @@
-content 3
+Changing even more content in file 3.
